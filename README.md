@@ -6,7 +6,7 @@
 - 📫 How to reach me - Whoever is looking for will always find 😉
 - 😄 Pronouns: call it what you want, it's purely your opinion 😂
 - ⚡ Fun fact: Laughter prolongs life 😁
-- 
+
 # Mine GitHub statistics 
 ![4l3x777's GitHub stats](https://github-readme-stats.vercel.app/api?username=4l3x777&count_private=true&show_icons=true&theme=dark)
 
