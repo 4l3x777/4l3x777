@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>You're visitor</td>
-    <td><a href="https://github.com/4l3x777"><img src="https://profile-counter.glitch.me/4l3x777/count.svg" alt="Counter" /></a></td>
+    <td><a href="https://github.com/4l3x777"><img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /></a></td>
   </tr>
 </table>
 <!---
