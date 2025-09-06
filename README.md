@@ -27,7 +27,7 @@
 
 ---
 
-> 💬 *Collab with me at* **[Discord]([https://discord.gg/4BSgDE55](https://discord.com/channels/@4l3x777_89553))**  
+> 💬 *Collab with me at* **[Discord](https://discord.com/channels/@4l3x777_89553)**  
 > ✨ This is a special repository — it appears on my GitHub profile!
 
 ---
