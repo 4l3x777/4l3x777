@@ -42,5 +42,5 @@
 | [edr_blocker](https://github.com/4l3x777/edr_blocker)                                       | ![GitHub stars](https://img.shields.io/github/stars/4l3x777/edr_blocker?style=social)                               | WFP Endpoint Protection Traffic Blocker |
 | [transparent_proxy](https://github.com/4l3x777/transparent_proxy)                           | ![GitHub stars](https://img.shields.io/github/stars/4l3x777/transparent_proxy?style=social)                         | WFP Transparent Proxy                  |
 | [dse_pg_bypass](https://github.com/4l3x777/dse_pg_bypass)                                   | ![GitHub stars](https://img.shields.io/github/stars/4l3x777/dse_pg_bypass?style=social)                             | DSE & PG bypass via BYOVD attack      |
-
+| [wkhttp_lib](https://github.com/4l3x777/wkhttp_lib)                                   | ![GitHub stars](https://img.shields.io/github/stars/4l3x777/wkhttp_lib?style=social)                             | Windows Kernel Http Library      |
 ---
