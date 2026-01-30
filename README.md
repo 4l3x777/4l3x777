@@ -23,7 +23,6 @@
 
 | You're visitor | 
 | --- |
-| <img src="https://komarev.com/ghpvc/?username=4l3x777&label=Profile%20views&color=0e75b6&style=flat" alt="4l3x777's GitHub Profile Visitor Counter" /> |
 | <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />  |
 ---
 
